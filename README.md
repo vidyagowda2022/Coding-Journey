@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -38,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
