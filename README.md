@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0169-majority-element](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
