@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0189-rotate-array) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/vidyagowda2022/Coding-Journey/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vidyagowda2022/Coding-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/vidyagowda2022/Coding-Journey/tree/master/1934-confirmation-rate) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vidyagowda2022/Coding-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
